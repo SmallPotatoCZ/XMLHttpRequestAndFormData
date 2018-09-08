@@ -12,6 +12,10 @@
 
 利用 FormData 对象，可以模拟一系列表单控件，优势异步上传二进制文件
 
+## 还需完成的任务
+
+正在总结...
+
 ## 参考链接
 
 1. [How To Make A Basic HTML Form Upload Files To Your Server Using Multer In A Node.js/Express App](https://medium.com/@Moonstrasse/how-to-make-a-basic-html-form-file-upload-using-multer-in-an-express-node-js-app-16dac2476610)
